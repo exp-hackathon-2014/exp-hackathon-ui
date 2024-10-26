@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --default_background_color: theme(colors.default_background_color);
+}
+
+body {
+  background-color: var(--default_background_color);
+}
