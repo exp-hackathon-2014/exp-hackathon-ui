@@ -1,3 +1,3 @@
 export const CONFIG = {
-  applicationName: "Kalygo",
+  applicationName: "eXp Realty Hackathon",
 };

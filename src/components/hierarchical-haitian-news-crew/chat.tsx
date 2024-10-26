@@ -94,7 +94,7 @@ export function Chat({ id, className }: ChatProps) {
                 <EmptyScreen
                   content={
                     <h1 className="text-text_default_color text-center text-5xl font-semibold leading-12 text-ellipsis overflow-hidden leading-normal">
-                      Hierarchical Haitian News Crew 🔵🔴
+                      News Crew 🟣🔴
                     </h1>
                   }
                 />

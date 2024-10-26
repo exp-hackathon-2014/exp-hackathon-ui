@@ -92,7 +92,7 @@ export function DashboardLayout({
                     router.push("/");
                   }}
                 >
-                  <span className="text-white text-lg font-semibold">🔵</span>
+                  <span className="text-white text-lg font-semibold">🟣🔵</span>
                 </div>
                 <nav className="flex flex-1 flex-col">
                   <ul role="list" className="flex flex-1 flex-col gap-y-7">
@@ -184,7 +184,7 @@ export function DashboardLayout({
                 router.push("/");
               }}
             >
-              <span className="text-white text-3xl">🔵</span>
+              <span className="text-white text-3xl">🟣🔵</span>
             </div>
             <nav className="flex flex-1 flex-col">
               <ul role="list" className="flex flex-1 flex-col gap-y-7">
